@@ -6,6 +6,10 @@
 
 ## Data set
 - From kaggle
+## Technology
+- Python
+- Machine Learning
+- Streamlit
 ## Machine Learning
   Supervised learning is used to predict the burnout rate of employee.
 
