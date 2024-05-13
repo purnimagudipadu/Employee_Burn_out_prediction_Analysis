@@ -1,5 +1,5 @@
 # Employee BurnoutRate prediction Analysis
-  Employee burnout is a specific type of workplace stree,where employees feel dissatification with their work and multiple levels of exhausion.
+  Employee burnout is a specific type of workplace stress,where employees feel dissatification with their work and multiple levels of exhausion.
 
   This project predict burnout rate of employee based on Gender,Company Type,WFH Setup Available,Designation,Resource Allocation,Mental Fatigue Score.
   
